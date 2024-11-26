@@ -30,7 +30,7 @@ android {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.github.d-max'
+            groupId = 'com.github.zepli-pty-ltd'
             artifactId = 'spots-dialog'
             version = LIBRARY_VERSION_NAME
 
